@@ -1,2 +1,5 @@
--[] my favorite things
--[] pink colour
+- my favorite things
+-  pink colour
+-  mountains
+-  dance
+-  music
