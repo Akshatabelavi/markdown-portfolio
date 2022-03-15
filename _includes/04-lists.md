@@ -1,0 +1,5 @@
+- my favorite things
+-  pink colour
+-  mountains
+-  dance
+-  music
